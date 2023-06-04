@@ -1,0 +1,37 @@
+.contain {
+    border: 15px solid black;
+}
+body{
+    background: grey;
+}
+.main {
+    color: #846836;
+    background: #978866;
+    text-align: center;
+    border: solid 10px #633522;
+}
+h1 {
+    color: brown;
+}
+h3 {
+    color: #191919;
+}
+p {
+    color: white;
+}
+.p {
+    color: black;
+    text-align: center;
+}
+input {
+    color:white;
+    background: skyblue;
+    border: solid 2px white;
+}
+button {
+    color: red;
+    padding: 8px 20px 8px 20px;
+}
+h5 {
+    color: #484858;
+}
